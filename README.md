@@ -5,9 +5,13 @@ On va vous donner un nombre. Votre tâche consiste à renvoyer cette chaîne dan
 Disons que vous commencez avec ceci :"543210"
 
 La première chose à faire est de l'inverser : "012345"
+
 Ensuite, vous prendrez la corde de la 1ère position et l'inverserez à nouveau : "054321"
+
 Ensuite, vous prendrez la corde de la 2ème position et l'inverserez à nouveau : "051234"
+
 Ensuite, vous prendrez la corde de la 3ème position et l'inverserez à nouveau :"051432"
+
 Ensuite, vous prendrez la corde de la 4ème position et l'inverserez à nouveau :"051423"
 
 
